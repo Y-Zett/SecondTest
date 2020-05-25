@@ -72,6 +72,5 @@ int main()
         }
     } while (minindex < 1000000);
     cout << d[input[1]] << endl;
-    //VectorPrint(graph);
     return 0; 
 }
