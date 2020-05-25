@@ -1,0 +1,5 @@
+﻿  FIfth.cpp
+C:\Users\Professional\source\repos\FIfth\FIfth\FIfth.cpp(7,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\source\repos\FIfth\FIfth\FIfth.cpp(17,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\source\repos\FIfth\FIfth\FIfth.cpp(25,24): warning C4018: <: несоответствие типов со знаком и без знака
+  FIfth.vcxproj -> C:\Users\Professional\source\repos\FIfth\Debug\FIfth.exe

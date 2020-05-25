@@ -1,0 +1,13 @@
+C:\Users\Professional\source\repos\fifthsharp\bin\Debug\netcoreapp3.1\fifthsharp.exe
+C:\Users\Professional\source\repos\fifthsharp\bin\Debug\netcoreapp3.1\fifthsharp.deps.json
+C:\Users\Professional\source\repos\fifthsharp\bin\Debug\netcoreapp3.1\fifthsharp.runtimeconfig.json
+C:\Users\Professional\source\repos\fifthsharp\bin\Debug\netcoreapp3.1\fifthsharp.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\fifthsharp\bin\Debug\netcoreapp3.1\fifthsharp.dll
+C:\Users\Professional\source\repos\fifthsharp\bin\Debug\netcoreapp3.1\fifthsharp.pdb
+C:\Users\Professional\source\repos\fifthsharp\obj\Debug\netcoreapp3.1\fifthsharp.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\fifthsharp\obj\Debug\netcoreapp3.1\fifthsharp.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\fifthsharp\obj\Debug\netcoreapp3.1\fifthsharp.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\fifthsharp\obj\Debug\netcoreapp3.1\fifthsharp.AssemblyInfo.cs
+C:\Users\Professional\source\repos\fifthsharp\obj\Debug\netcoreapp3.1\fifthsharp.dll
+C:\Users\Professional\source\repos\fifthsharp\obj\Debug\netcoreapp3.1\fifthsharp.pdb
+C:\Users\Professional\source\repos\fifthsharp\obj\Debug\netcoreapp3.1\fifthsharp.genruntimeconfig.cache

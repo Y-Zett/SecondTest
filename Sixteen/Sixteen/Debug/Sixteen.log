@@ -1,0 +1,7 @@
+﻿  Sixteen.cpp
+C:\Users\Professional\source\repos\Sixteen\Sixteen\Sixteen.cpp(10,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\source\repos\Sixteen\Sixteen\Sixteen.cpp(11,53): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\Sixteen\Sixteen\Sixteen.cpp(11,57): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Professional\source\repos\Sixteen\Sixteen\Sixteen.cpp(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\source\repos\Sixteen\Sixteen\Sixteen.cpp(37,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Sixteen.vcxproj -> C:\Users\Professional\source\repos\Sixteen\Debug\Sixteen.exe

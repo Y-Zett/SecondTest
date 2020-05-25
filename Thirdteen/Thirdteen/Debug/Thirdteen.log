@@ -1,0 +1,5 @@
+﻿  Thirdteen.cpp
+C:\Users\Professional\source\repos\Thirdteen\Thirdteen\Thirdteen.cpp(8,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\source\repos\Thirdteen\Thirdteen\Thirdteen.cpp(18,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\source\repos\Thirdteen\Thirdteen\Thirdteen.cpp(53,32): warning C4018: <: несоответствие типов со знаком и без знака
+  Thirdteen.vcxproj -> C:\Users\Professional\source\repos\Thirdteen\Debug\Thirdteen.exe

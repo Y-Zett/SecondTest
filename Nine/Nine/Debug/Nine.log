@@ -1,0 +1,5 @@
+﻿  Nine.cpp
+C:\Users\Professional\source\repos\Nine\Nine\Nine.cpp(10,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\source\repos\Nine\Nine\Nine.cpp(24,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\source\repos\Nine\Nine\Nine.cpp(74,24): warning C4018: <: несоответствие типов со знаком и без знака
+  Nine.vcxproj -> C:\Users\Professional\source\repos\Nine\Debug\Nine.exe

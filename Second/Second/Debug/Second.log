@@ -1,0 +1,4 @@
+﻿  Second.cpp
+C:\Users\Professional\source\repos\Second\Second\Second.cpp(8,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\source\repos\Second\Second\Second.cpp(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Second.vcxproj -> C:\Users\Professional\source\repos\Second\Debug\Second.exe

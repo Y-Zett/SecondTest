@@ -1,0 +1,5 @@
+﻿  Eighteen.cpp
+C:\Users\Professional\source\repos\Eighteen\Eighteen\Eighteen.cpp(9,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Professional\source\repos\Eighteen\Eighteen\Eighteen.cpp(11,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Professional\source\repos\Eighteen\Eighteen\Eighteen.cpp(13,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Eighteen.vcxproj -> C:\Users\Professional\source\repos\Eighteen\Debug\Eighteen.exe

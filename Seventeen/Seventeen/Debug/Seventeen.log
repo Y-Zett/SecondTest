@@ -1,0 +1,6 @@
+﻿  Seventeen.cpp
+C:\Users\Professional\source\repos\Seventeen\Seventeen\Seventeen.cpp(8,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\source\repos\Seventeen\Seventeen\Seventeen.cpp(44,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\source\repos\Seventeen\Seventeen\Seventeen.cpp(45,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\source\repos\Seventeen\Seventeen\Seventeen.cpp(57,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Seventeen.vcxproj -> C:\Users\Professional\source\repos\Seventeen\Debug\Seventeen.exe
