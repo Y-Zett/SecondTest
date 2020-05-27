@@ -4,21 +4,25 @@
 using namespace std;
 const long MAX_N = 10e5;
 const long MAX_M = 10e6;
-const int one = 1;
-long M;
-long N;
 
 vector<pair<int, int>> graph[MAX_N];
 long radius[MAX_N];
-void Step(long k)
+void Step(long k, long way)
 {
+    radius[k] = way;
     for (long i = 0; i < graph[k].size(); i++)
     {
+        if (radius[graph[k][i].first] > way + graph[k][i].second)
+        {
+            Step(graph[k][i].first, way + graph[k][i].second);
+        }
     }
 }
 
 int main()
 {
+    long M;
+    long N;
     long a, b;
     cin >> N >> M;
 
@@ -41,5 +45,8 @@ int main()
         radius[i] = 10000;
     }
     radius[a] = 0;
+
+    Step(a, 0);
+    cout << radius[b];
     return 0;
 }

@@ -1,6 +1,16 @@
 {
     "files.associations": {
         "vector": "cpp",
-        "iostream": "cpp"
-    }
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "cmath": "cpp",
+        "streambuf": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "xlocale": "cpp",
+        "xlocnum": "cpp",
+        "xmemory": "cpp",
+        "xstring": "cpp"
+    },
+    "python.pythonPath": "C:\\Users\\Professional\\anaconda3\\python.exe"
 }

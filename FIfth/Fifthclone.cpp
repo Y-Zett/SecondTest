@@ -1,5 +1,7 @@
-﻿﻿#include <iostream>
+#include <iostream>
 #include <vector>
+#include <climits>
+
 using namespace std;
 
 int main()
@@ -25,8 +27,8 @@ int main()
     cin >> input[0] >> input[1];
     input[0]--;
     input[1]--;
-    vector<int> d(N, 1000000);
-    vector<int> v(N, 1);
+    vector<long> d(N, LONG_MAX);
+    vector<long> v(N, 0);
     d[input[0]] = 0;
     int node = input[0];
     int minindex;
@@ -47,7 +49,7 @@ int main()
 
         long minValue = LONG_MAX;
         int minindex = 0;
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i < N; i++)
         {
             if (v[i])
                 continue;
