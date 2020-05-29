@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "rubybuild",
+            "type": "shell",
+            "command": "ruby",
+            "args" : [
+                "${fileDirname}\\${fileBasenameNoExtension}.rb"
+            ]
+            
+        }
+    ]
+}
